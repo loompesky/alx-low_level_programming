@@ -11,6 +11,12 @@ int _putchar(char c);
 /**
  * print_alphabet - function to print alphabet
  */
-void print_alpabet(void);
+void print_alphabet(void);
+
+/**
+ * print_alphabet_x10 - prints alphabet 10 times
+ *
+ */
+void print_alphabet_x10(void);
 
 #endif
