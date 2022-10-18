@@ -7,7 +7,13 @@
 int _abs(int n)
 {
 	if (n < 0)
-		retrun (n * -1);
-	else
-		return (n);
+	{
+		int abs_val;
+
+		abs_val = c * -1;
+
+		return (abs_val);
+	}
+	
+	return (n);
 }
